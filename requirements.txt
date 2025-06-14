@@ -1,0 +1,5 @@
+streamlit
+speedtest-cli
+requests
+matplotlib
+pandas
